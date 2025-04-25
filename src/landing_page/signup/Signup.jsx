@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import './SignUp.css';
+import './Signup.css';
 
 const SignUp = () => {
   const [formData, setFormData] = useState({
